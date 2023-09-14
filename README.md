@@ -83,7 +83,9 @@ Here are some ideas to get you started:
 
 🔭 Currently Engaged In / Latest Experience
 
-    Embarking on a quest to master React with a clear and measurable objective of crafting my very own portfolio. Prior to this, I had the privilege of serving as a Research Fellow in the UCR DS-PATH Fellowship. During this time, my primary focus revolved around a collaborative effort with NASA JPL, where we pioneered cutting-edge algorithms with the goal of achieving precise cloud cover removal in satellite imagery.
+    Embarking on a quest to master React with a clear and measurable objective of crafting my very own portfolio. 
+    Prior to this, I had the privilege of serving as a Research Fellow in the UCR DS-PATH Fellowship. 
+    During that time, my primary focus revolved around a collaborative effort with NASA JPL, where we pioneered cutting-edge algorithms with the goal of achieving precise cloud cover removal in satellite imagery.
 
 🌱 Currently Learning
 
