@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 <p align="left">I'm Ashraf, a Graduate Student at the University of California, Riverside 🇺🇲, pursuing a Master's in Computer Science. Previously, I served as a Developer at Oracle for 2+ years. I also hold a Bachelor's in Computer Science & Engineering from Osmania University (CBIT) 🇮🇳.</p> 
 
-<h4> Visit my Website to https://ali-ashraf.netlify.app/  learn more.</h4>
+<h4> Visit my Website https://ali-ashraf.netlify.app/ to learn more.</h4>
 
 ###
 
