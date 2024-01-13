@@ -20,17 +20,58 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I'm Ashraf, a Graduate Student at the University of California, Riverside 🇺🇲, pursuing a Master's in Computer Science. Previously, I served as a Full Stack Software Developer/Engineer at Oracle for 2+ years, complemented with a 6 months Software Engineer Internship and a 8-weeks as a Research Fellow at UC-Riverside. I also hold a Bachelor's in Computer Science & Engineering from Osmania University (CBIT) 🇮🇳.</p> 
+<p align="left">I am Ashraf, a graduate with a Master's degree in Computer Science from the esteemed University of California, Riverside 🇺🇲. My academic journey is complemented by a rich professional experience, having served as a proficient Full Stack Software Developer/Engineer at Oracle for over 2 years. Additionally, I've honed my skills through a 6-month Software Engineer Internship, an enlightening 8-week Research Fellowship at UC-Riverside, and a dynamic 3-month SWE Internship at Foxmula.
+
+My educational foundation includes a Bachelor's degree in Computer Science & Engineering from Osmania University (CBIT) 🇮🇳. With a passion for innovation and a solid academic and professional background, I am eager to contribute my skills and knowledge to new and exciting challenges in the field of computer science.</p> 
 
 <h4> Visit my Website https://ali-ashraf.netlify.app/ to learn more.</h4>
 
 ###
 
-<h2 align="left">About me</h2>
+<h1 align="left">About me</h1>
 
 ###
 
-<p align="left">I'm a Computer Science grad student at UC Riverside, passionate about crafting scalable solutions that cater to business needs. With a solid software development background, I've spent 2+ years at Oracle as a Software Developer. I've designed a monitoring tool, improved the customer portal UI/UX, and integrated chatbots and data science into the existing setup.<br><br>My skills span frontend, backend, cloud computing, microservices, data mining, machine learning, and REST APIs. Proficient in Java, Python, Spring Boot, OJET, Kubernetes, Docker, OracleDB, and Oracle Cloud. A data science enthusiast, I've studied data mining, security, cryptography, cloud computing, and info retrieval. I'm always excited to learn and apply new tech to real-world problems.<br><br>Beyond tech, I'm multilingual (English, Hindi, Urdu, Telugu), a collaborative mentor, and a dedicated problem-solver. I've delivered high-impact solutions boosting performance, user experience, and customer satisfaction. Eager for new challenges and committed to continuous growth and innovation.</p>
+<p align="left">
+  <h2>Professional Summary</h2>
+
+  <p>Enthusiastic and results-driven Computer Science Master's graduate with a track record of success in both academic and professional settings. Adept at leveraging cutting-edge technologies to solve complex challenges, my journey unfolds with a Master's in Computer Science from the University of California, Riverside.</p>
+
+
+  <h2>Innovation, Impact & Problem Solving</h2>
+
+
+  <ul>
+    <li>Collaborated with NASA JPL as a Software Engineer Intern at UC-Riverside to re-built a sophisticated deep-learning solution for cloud removal.</li>
+    <li>Proficient in Python and effectively utilized 4 GPUs, resulting in an impressive F1-score of 92% on a substantial 400GB satellite imagery dataset.</li>
+    <li>Dedicated to documenting codebase changes to ensure a seamless transition for future researchers, supporting the longevity of our advancements.</li>
+    <li>Played a pivotal role as a Software Developer at Oracle in designing and implementing highly available, fault-tolerant RESTful Microservices.</li>
+    <li>Leadership in developing a Monitoring & Debugging Solution significantly reduced debugging time.</li>
+    <li>Identified and optimized product bottlenecks, leading to a remarkable 90% reduction in client requests on the network and server.</li>
+    <li>Demonstrated commitment to efficiency and impactful solutions that enhanced user experience.</li>
+  </ul>
+
+
+
+  <h2>Mentorship and Innovation</h2>
+
+  <p>Beyond technical expertise, I played a pivotal role in mentoring interns, onboarding new hires, and contributing to the establishment of continuous integration & deployment pipelines. This multifaceted experience showcases my commitment to fostering team growth and efficiency.</p>
+
+  <h2>Versatile Skill Set</h2>
+
+  <p>My proficiency extends across a diverse skill set, including programming languages (Python, Java, C++, JavaScript), front-end development (HTML, CSS, jQuery, ReactJS), and backend technologies (J2EE/Java EE, Spring Boot, Oracle Cloud). Adept at utilizing Git, DevOps tools (Docker, Kubernetes, Jenkins), and familiar with databases such as Oracle, Redis, and MongoDB.</p>
+
+  <h2>Passion for Innovation</h2>
+
+  <p>In a dynamic internship at Foxmula, I optimized neural network architectures for faster training times, employing techniques like early stopping and hyperparameter tuning. My commitment to quality was demonstrated through the implementation of scalable machine learning solutions adhering to SOLID design principles.</p>
+
+  <h2>Ready for the Next Challenge</h2>
+
+  <p>Armed with a Master's degree, comprehensive technical expertise, and a proven track record, I am eager to bring my skills, passion for innovation, and dedication to excellence to a challenging and rewarding role. Let's collaborate to drive technological advancements and exceed expectations.</p>
+
+  <h2>Multifaceted Professionalism</h2>
+
+<p>Beyond tech, I'm multilingual (English, Hindi, Urdu, Telugu), a collaborative mentor, and a dedicated problem-solver. I deliver high-impact solutions boosting performance, user experience, and customer satisfaction. Eager for new challenges and committed to continuous growth and innovation.</p>
 
 ###
 
@@ -111,7 +152,7 @@ Here are some ideas to get you started:
 
 
 ###
-
+Visitor Count 👀:
 <div align="center">
   <img src="https://profile-counter.glitch.me/mmaashraf/count.svg?"  />
 </div>
