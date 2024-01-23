@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 ###
 
-<p align="left">I am Ashraf, a graduate with a Master's degree in Computer Science from the esteemed University of California, Riverside 🇺🇲. My academic journey is complemented by a rich professional experience, having served as a proficient Full Stack Software Developer/Engineer at Oracle for over 2 years. Additionally, I've honed my skills through a 6-month Software Engineer Internship, an enlightening 8-week Research Fellowship at UC-Riverside, and a dynamic 3-month SWE Internship at Foxmula.
+<p align="left">I am Ashraf, a graduate with a Master's degree in Computer Science from the esteemed University of California, Riverside 🇺🇲. My academic journey is complemented by a rich professional experience, having served as a proficient Full Stack Software Developer/Engineer at Oracle for over 2.5 years. Additionally, I've honed my skills through an enlightening 8-week Research Fellowship at UC-Riverside, and a dynamic 3-month Software Engineering Internship at Foxmula.
 
 My educational foundation includes a Bachelor's degree in Computer Science & Engineering from Osmania University (CBIT) 🇮🇳. With a passion for innovation and a solid academic and professional background, I am eager to contribute my skills and knowledge to new and exciting challenges in the field of computer science.</p> 
 
